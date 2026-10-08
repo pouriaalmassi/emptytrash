@@ -1,0 +1,13 @@
+Drag Empty Trash.app into Applications.
+
+Before the first launch, add Empty Trash in System Settings > Privacy &
+Security > Full Disk Access and enable it (System Preferences > Security &
+Privacy > Privacy on macOS Monterey).
+
+Drag the installed app from Applications onto the Dock, or launch it from
+Spotlight. Each launch permanently deletes the contents of your Trash and
+then quits. There are no confirmation dialogs, windows, or notifications.
+
+The app includes your home Trash and your user Trash on mounted volumes.
+Files macOS refuses to delete remain in the Trash. Failures are recorded in
+Console under subsystem com.pouriaalmassi.emptytrash.
